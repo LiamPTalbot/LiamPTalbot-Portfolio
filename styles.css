@@ -334,8 +334,7 @@ footer p {
 
 /* MEDIUM SCREEN BREAKPOINT */
 @media (min-width: 640px) {
-
-    /* ADJUSTED POST TUTORIAL */
+    
     body {
         padding: 5rem 3rem;
     }
