@@ -447,7 +447,6 @@ footer p {
         display: none;
     }
 
-    /* ADDED POST TUTORIAL */
     .project-card,
     .experience-card {
         padding: 1rem;
@@ -456,7 +455,6 @@ footer p {
         transition-duration: 200ms;
     }
 
-    /* ADDED POST TUTORIAL */
     .project-card:hover,
     .experience-card:hover {
         background: #1b2541;
